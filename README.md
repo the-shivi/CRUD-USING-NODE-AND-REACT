@@ -4,9 +4,12 @@
 ## Screenshots
 `Home Page`
 ![HomePage](./Screenshot/Screenshot%20(107).png)
+
 `Insert Data`
 ![InsertData](./Screenshot/Screenshot%20(17).png)
+
 `Update Data`
 ![UpdateData](./Screenshot/Screenshot%20(15).png)
+
 `Delete Data`
-![UpdateData](./Screenshot/Screenshot%20(113).png)
+![DeleteData](./Screenshot/Screenshot%20(113).png)
